@@ -1,4 +1,4 @@
-# JanSamvad AI (जनसंवाद AI) 🏛️
+# JanSamvad AI (जनसंवाद AI)
 
 **JanSamvad AI** is a modern, transparent civic engagement and district-level governance intelligence platform. It bridges the gap between citizens, elected representatives, and administration through transparent financial tracking, automated AI grievance classification, and real-time project progress monitoring.
 
